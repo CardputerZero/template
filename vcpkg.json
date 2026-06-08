@@ -1,5 +1,5 @@
 {
-  "name": "template app simulator on windows",
+  "name": "template-app-simulator-on-windows",
   "version": "1.0.0",
   "dependencies": [
     "fmt",
